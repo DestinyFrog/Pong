@@ -1,0 +1,18 @@
+body {
+    margin: 20px;
+    margin-top: 80px;
+    background: black;
+    display: flex;
+    justify-content: center;
+}
+#game {
+    margin: 0px;
+    background-color: white;
+    width: 840px;
+    height: 440px;
+    justify-content: center;
+}
+#canvas {
+    margin-top: 20px;
+    margin-left: 20px;
+}
