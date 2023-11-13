@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+		"removeComments": true,
+		"lib": [
+			"DOM",
+			"ES2015"
+		]
+    },
+	"include": [
+		"./**.ts"
+	]
+}
