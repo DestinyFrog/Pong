@@ -42,7 +42,7 @@ Adaptado para dois jogadores no mesmo positivo nos seguintes comandos:
 ---
 
 ## Tecnologias Utilizadas: 
-<div style="display:flex; width:100%; justify-content:space-evenly; flex-direction: row;">
+<div style="display:flex; width:300px; justify-content:space-evenly; flex-direction: row;">
 
 <div style="display:flex; flex-direction: column; width:100%; align-items:center;">
 <img width="40" alt="HTML" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
