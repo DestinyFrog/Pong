@@ -38,6 +38,8 @@ Adaptado para dois jogadores no mesmo positivo nos seguintes comandos:
 </table>
 
 ---
+![Print da tela do jogo](./print.png)
+---
 
 ## Tecnologias Utilizadas: 
 <div style="display:flex; width:100%; justify-content:space-evenly;">
